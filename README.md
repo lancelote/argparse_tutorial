@@ -11,3 +11,4 @@ Code from `argparse` tutorial from [official documentation](https://docs.python.
 - [Boolean optional arguments](examples/optional_arguments.py)
 - [Short options](examples/short_options.py)
 - [Positional and optional arguments](examples/positional_and_optional.py)
+- [Processing multiple argument values](examples/process_different_arg_values.py)
