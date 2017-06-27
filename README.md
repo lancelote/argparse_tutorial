@@ -1,6 +1,6 @@
 # argparse_tutorial
 
-Code for `argparse` tutorial from [official documentation](https://docs.python.org/3/howto/argparse.html)
+Code from `argparse` tutorial from [official documentation](https://docs.python.org/3/howto/argparse.html)
 
 ## Table of Content
 
@@ -10,3 +10,4 @@ Code for `argparse` tutorial from [official documentation](https://docs.python.o
 - [Optional arguments](examples/optional_arguments.py)
 - [Boolean optional arguments](examples/optional_arguments.py)
 - [Short options](examples/short_options.py)
+- [Positional and optional arguments](examples/positional_and_optional.py)
