@@ -16,3 +16,4 @@ Code from `argparse` tutorial from [official documentation](https://docs.python.
 - [Countable arguments](examples/countable_arguments.py), e.g. `-vvv` and default value
 - [Add more arguments](examples/more_arguments.py)
 - [Add more text to verbose](examples/more_verbose_text.py)
+- [Conflicting options](examples/conflicting_options.py)
