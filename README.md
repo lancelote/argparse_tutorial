@@ -15,3 +15,4 @@ Code from `argparse` tutorial from [official documentation](https://docs.python.
 - [Limit number of allowed values for argument](examples/strict_set_of_args_values.py)
 - [Countable arguments](examples/countable_arguments.py), e.g. `-vvv` and default value
 - [Add more arguments](examples/more_arguments.py)
+- [Add more text to verbose](examples/more_verbose_text.py)
