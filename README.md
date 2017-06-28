@@ -17,3 +17,4 @@ Code from `argparse` tutorial from [official documentation](https://docs.python.
 - [Add more arguments](examples/more_arguments.py)
 - [Add more text to verbose](examples/more_verbose_text.py)
 - [Conflicting options](examples/conflicting_options.py)
+- [Description](examples/description.py)
