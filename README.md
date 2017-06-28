@@ -13,3 +13,4 @@ Code from `argparse` tutorial from [official documentation](https://docs.python.
 - [Positional and optional arguments](examples/positional_and_optional.py)
 - [Processing multiple argument values](examples/process_different_arg_values.py)
 - [Limit number of allowed values for argument](examples/strict_set_of_args_values.py)
+- [Countable arguments](examples/countable_arguments.py), e.g. `-vvv` and default value
