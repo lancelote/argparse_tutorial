@@ -12,3 +12,4 @@ Code from `argparse` tutorial from [official documentation](https://docs.python.
 - [Short options](examples/short_options.py)
 - [Positional and optional arguments](examples/positional_and_optional.py)
 - [Processing multiple argument values](examples/process_different_arg_values.py)
+- [Limit number of allowed values for argument](examples/strict_set_of_args_values.py)
