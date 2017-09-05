@@ -19,3 +19,5 @@ Code from `argparse` tutorial and documentation
   - [Add more text to verbose](tutorial/more_verbose_text.py)
   - [Conflicting options](tutorial/conflicting_options.py)
   - [Description](tutorial/description.py)
+- [Examples from documentation](https://docs.python.org/3/library/argparse.html)
+  - [Simple example](documentation/simple_example.py)
