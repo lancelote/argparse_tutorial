@@ -7,23 +7,23 @@ table of content
 ----------------
 
 - `argparse tutorial`_
-  - `basics`_
-  - `positional arguments`_
-  - `document arguments`_ and specify the type
-  - `optional arguments`_
-  - `boolean optional arguments`_
-  - `short options`_
-  - `positional and optional arguments`_
-  - `processing multiple argument values`_
-  - `limit number of allowed values for argument`_
-  - `countable arguments`_, e.g. ``-vvv`` and default value
-  - `add more arguments`_
-  - `add more text to verbose`_
-  - `conflicting options`_
-  - `description`_
+    - `basics`_
+    - `positional arguments`_
+    - `document arguments`_ and specify the type
+    - `optional arguments`_
+    - `boolean optional arguments`_
+    - `short options`_
+    - `positional and optional arguments`_
+    - `processing multiple argument values`_
+    - `limit number of allowed values for argument`_
+    - `countable arguments`_, e.g. ``-vvv`` and default value
+    - `add more arguments`_
+    - `add more text to verbose`_
+    - `conflicting options`_
+    - `description`_
 - `examples from documentation`_
-  - `simple example`_
-  - `parent parser`_
+    - `simple example`_
+    - `parent parser`_
 
 tests
 -----
