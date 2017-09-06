@@ -25,7 +25,8 @@ table of content
     - `simple example`_
     - `parent parser`_, parsers share multiple arguments
     - `epilog`_, end message in help
-    - `usage`_, rewrite usage message
+    - `usage`_, overwrite usage message
+    - `parser_description`_, provide a description for parser
 
 tests
 -----
@@ -54,3 +55,4 @@ tests
 .. _parent parser: documentation/parents.py
 .. _epilog: documentation/epilog.py
 .. _usage: documentation/usage.py
+.. _parser_description: documentation/parser_description.py
