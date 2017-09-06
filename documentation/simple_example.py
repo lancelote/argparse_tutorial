@@ -1,5 +1,4 @@
 """
->>> from documentation.simple_example import parser
 >>> args = parser.parse_args(['1', '2', '3'])
 >>> args.accumulate(args.integers)
 3

@@ -1,5 +1,4 @@
 """
->>> from documentation.parents import foo_parser, bar_parser
 >>> foo_parser.parse_args(['--parent', '2', 'XXX'])
 Namespace(foo='XXX', parent=2)
 
