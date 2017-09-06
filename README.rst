@@ -28,6 +28,7 @@ table of content
     - `usage`_, overwrite usage message
     - `parser_description`_, provide a description for parser
     - `formatter_class`_, class mixin for help formatting
+    - `prefix_chars`_, change prefix character
 
 tests
 -----
@@ -58,3 +59,4 @@ tests
 .. _usage: documentation/usage.py
 .. _parser_description: documentation/parser_description.py
 .. _formatter_class: documentation/formatter_class.py
+.. _prefix_chars: documentation/prefix_chars.py
