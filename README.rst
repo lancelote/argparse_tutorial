@@ -30,7 +30,7 @@ tests
 
 .. code::
 
-    python3 -m unittest doctests.py
+    py.test --doctest-modules documentation
 
 .. _argparse tutorial: https://docs.python.org/3/howto/argparse.html
 .. _basics: tutorial/basics.py

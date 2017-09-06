@@ -1,6 +1,9 @@
-# PyCharm Settings
+# pycharm settings
 .idea/
 
-# Python byte-code
+# python byte-code
 __pycache__/
 *.pyc
+
+# pytest cache
+.cache/
