@@ -23,7 +23,9 @@ table of content
     - `description`_
 - `examples from documentation`_
     - `simple example`_
-    - `parent parser`_
+    - `parent parser`_, parsers share multiple arguments
+    - `epilog`_, end message in help
+    - `usage`_, rewrite usage message
 
 tests
 -----
@@ -50,3 +52,5 @@ tests
 .. _examples from documentation: https://docs.python.org/3/library/argparse.html
 .. _simple example: documentation/simple_example.py
 .. _parent parser: documentation/parents.py
+.. _epilog: documentation/epilog.py
+.. _usage: documentation/usage.py
