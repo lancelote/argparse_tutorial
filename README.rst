@@ -27,6 +27,7 @@ table of content
     - `epilog`_, end message in help
     - `usage`_, overwrite usage message
     - `parser_description`_, provide a description for parser
+    - `formatter_class`_, class mixin for help formatting
 
 tests
 -----
@@ -56,3 +57,4 @@ tests
 .. _epilog: documentation/epilog.py
 .. _usage: documentation/usage.py
 .. _parser_description: documentation/parser_description.py
+.. _formatter_class: documentation/formatter_class.py
