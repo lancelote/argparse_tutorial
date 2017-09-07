@@ -30,6 +30,7 @@ table of content
     - `formatter_class`_, class mixin for help formatting
     - `prefix_chars`_, change prefix character
     - `fromfile_prefix_chars`_, load arguments from file
+    - `argument_default`_, default value for all parser arguments, suppressing default ``None``
 
 tests
 -----
@@ -62,3 +63,4 @@ tests
 .. _formatter_class: documentation/formatter_class.py
 .. _prefix_chars: documentation/prefix_chars.py
 .. _fromfile_prefix_chars: documentation/fromfile_prefix_chars.py
+.. _argument_default: documentation/argument_default.py
