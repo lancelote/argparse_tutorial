@@ -32,6 +32,7 @@ table of content
     - `fromfile_prefix_chars`_, load arguments from file
     - `argument_default`_, default value for all parser arguments, suppressing default ``None``
     - `allow_abbrev`_, disallow abbreviation in arguments
+    - `allow conflict flags`_
 
 tests
 -----
@@ -66,3 +67,4 @@ tests
 .. _fromfile_prefix_chars: documentation/fromfile_prefix_chars.py
 .. _argument_default: documentation/argument_default.py
 .. _allow_abbrev: documentation/allow_abbrev.py
+.. _allow conflict flags: documentation/conflict_handler.py
