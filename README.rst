@@ -31,6 +31,7 @@ table of content
     - `prefix_chars`_, change prefix character
     - `fromfile_prefix_chars`_, load arguments from file
     - `argument_default`_, default value for all parser arguments, suppressing default ``None``
+    - `allow_abbrev`_, disallow abbreviation in arguments
 
 tests
 -----
@@ -64,3 +65,4 @@ tests
 .. _prefix_chars: documentation/prefix_chars.py
 .. _fromfile_prefix_chars: documentation/fromfile_prefix_chars.py
 .. _argument_default: documentation/argument_default.py
+.. _allow_abbrev: documentation/allow_abbrev.py
