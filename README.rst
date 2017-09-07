@@ -37,7 +37,7 @@ tests
 
 .. code::
 
-    py.test --doctest-modules documentation
+    make test
 
 .. _argparse tutorial: https://docs.python.org/3/howto/argparse.html
 .. _basics: tutorial/basics.py

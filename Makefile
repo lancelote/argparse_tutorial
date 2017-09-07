@@ -1,2 +1,2 @@
 test:
-	py.test --doctest-modules documentation
+	cd documentation && py.test --doctest-modules
