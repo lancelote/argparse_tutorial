@@ -24,14 +24,14 @@ table of content
 - `examples from documentation`_
     - `simple example`_
     - `parent parser`_, parsers share multiple arguments
-    - `epilog`_, end message in help
-    - `usage`_, overwrite usage message
-    - `parser_description`_, provide a description for parser
-    - `formatter_class`_, class mixin for help formatting
-    - `prefix_chars`_, change prefix character
-    - `fromfile_prefix_chars`_, load arguments from file
-    - `argument_default`_, default value for all parser arguments, suppressing default ``None``
-    - `allow_abbrev`_, disallow abbreviation in arguments
+    - `epilog message in help`_
+    - `overwrite usage message`_
+    - `provide a description for parser`_
+    - `class mixin for help formatting`_
+    - `change flags prefix character`_
+    - `load arguments from file`_
+    - `default value for all parser arguments`_, suppressing default ``None``
+    - `disallow abbreviation in arguments`_
     - `allow conflict flags`_
 
 tests
@@ -59,12 +59,12 @@ tests
 .. _examples from documentation: https://docs.python.org/3/library/argparse.html
 .. _simple example: documentation/simple_example.py
 .. _parent parser: documentation/parents.py
-.. _epilog: documentation/epilog.py
-.. _usage: documentation/usage.py
-.. _parser_description: documentation/parser_description.py
-.. _formatter_class: documentation/formatter_class.py
-.. _prefix_chars: documentation/prefix_chars.py
-.. _fromfile_prefix_chars: documentation/fromfile_prefix_chars.py
-.. _argument_default: documentation/argument_default.py
-.. _allow_abbrev: documentation/allow_abbrev.py
+.. _epilog message in help: documentation/epilog.py
+.. _overwrite usage message: documentation/usage.py
+.. _provide a description for parser: documentation/parser_description.py
+.. _class mixin for help formatting: documentation/formatter_class.py
+.. _change flags prefix character: documentation/prefix_chars.py
+.. _load arguments from file: documentation/fromfile_prefix_chars.py
+.. _default value for all parser arguments: documentation/argument_default.py
+.. _disallow abbreviation in arguments: documentation/allow_abbrev.py
 .. _allow conflict flags: documentation/conflict_handler.py
