@@ -33,6 +33,7 @@ table of content
     - `default value for all parser arguments`_, suppressing default ``None``
     - `disallow abbreviation in arguments`_
     - `allow conflict flags`_
+    - `disable help flag`_ or change it's prefix
 
 tests
 -----
@@ -68,3 +69,4 @@ tests
 .. _default value for all parser arguments: documentation/argument_default.py
 .. _disallow abbreviation in arguments: documentation/allow_abbrev.py
 .. _allow conflict flags: documentation/conflict_handler.py
+.. _disable help flag: documentation/add_help.py
