@@ -42,6 +42,7 @@ table of content
     - `disable help flag`_ or change it's prefix
     - `optional and positional arguments`_
     - `different add_argument actions`_
+    - `number of arguments`_
 
 tests
 -----
@@ -80,3 +81,4 @@ tests
 .. _disable help flag: documentation/add_help.py
 .. _optional and positional arguments: documentation/name_or_flags.py
 .. _different add_argument actions: documentation/action.py
+.. _number of arguments: documentation/nargs.py
