@@ -1,3 +1,9 @@
+.. image:: https://requires.io/github/lancelote/argparse_tutorial/requirements.svg?branch=master
+    :target: https://requires.io/github/lancelote/argparse_tutorial/requirements/?branch=master
+
+.. image:: https://travis-ci.org/lancelote/argparse_tutorial.svg?branch=master
+    :target: https://travis-ci.org/lancelote/argparse_tutorial
+
 argparse_tutorial
 =================
 
