@@ -35,6 +35,7 @@ table of content
     - `allow conflict flags`_
     - `disable help flag`_ or change it's prefix
     - `optional and positional arguments`_
+    - `different add_argument actions`_
 
 tests
 -----
@@ -72,3 +73,4 @@ tests
 .. _allow conflict flags: documentation/conflict_handler.py
 .. _disable help flag: documentation/add_help.py
 .. _optional and positional arguments: documentation/name_or_flags.py
+.. _different add_argument actions: documentation/action.py
