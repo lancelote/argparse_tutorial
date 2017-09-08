@@ -34,6 +34,7 @@ table of content
     - `disallow abbreviation in arguments`_
     - `allow conflict flags`_
     - `disable help flag`_ or change it's prefix
+    - `optional and positional arguments`_
 
 tests
 -----
@@ -70,3 +71,4 @@ tests
 .. _disallow abbreviation in arguments: documentation/allow_abbrev.py
 .. _allow conflict flags: documentation/conflict_handler.py
 .. _disable help flag: documentation/add_help.py
+.. _optional and positional arguments: documentation/name_or_flags.py
