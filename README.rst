@@ -43,6 +43,7 @@ table of content
     - `optional and positional arguments`_
     - `different add_argument actions`_
     - `number of arguments`_
+    - `default value for argument`_
 
 tests
 -----
@@ -82,3 +83,4 @@ tests
 .. _optional and positional arguments: documentation/name_or_flags.py
 .. _different add_argument actions: documentation/action.py
 .. _number of arguments: documentation/nargs.py
+.. _default value for argument: documentation/default.py
