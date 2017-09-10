@@ -44,6 +44,7 @@ table of content
     - `different add_argument actions`_
     - `number of arguments`_
     - `default value for argument`_
+    - `argument type conversion`_
 
 tests
 -----
@@ -84,3 +85,4 @@ tests
 .. _different add_argument actions: documentation/action.py
 .. _number of arguments: documentation/nargs.py
 .. _default value for argument: documentation/default.py
+.. _argument type conversion: documentation/convert_type.py
