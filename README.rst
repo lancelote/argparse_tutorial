@@ -9,6 +9,13 @@ argparse_tutorial
 
 code from ``argparse`` tutorial and documentation
 
+tests
+-----
+
+.. code::
+
+    make test
+
 table of content
 ----------------
 
@@ -47,13 +54,6 @@ table of content
     - `argument type conversion`_
     - `arguments with choices`_
     - `required arguments`_
-
-tests
------
-
-.. code::
-
-    make test
 
 .. _argparse tutorial: https://docs.python.org/3/howto/argparse.html
 .. _basics: tutorial/basics.py
