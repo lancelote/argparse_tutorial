@@ -1,6 +1,6 @@
 """
 >>> parser0.parse_args('2 args.txt'.split())  # doctest: +ELLIPSIS
-Namespace(bar=<... name='args.txt' mode='r' encoding='UTF-8'>, foo=2)
+Namespace(bar=<... name='args.txt' mode='r' encoding='...'>, foo=2)
 
 >>> parser1.parse_args(['out.txt'])  # doctest: +SKIP
 Namespace(bar=<... name='out.txt' mode='w' encoding='UTF-8'>)
