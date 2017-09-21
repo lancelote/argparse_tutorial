@@ -45,6 +45,7 @@ table of content
     - `number of arguments`_
     - `default value for argument`_
     - `argument type conversion`_
+    - `arguments with choices`_
 
 tests
 -----
@@ -86,3 +87,4 @@ tests
 .. _number of arguments: documentation/nargs.py
 .. _default value for argument: documentation/default.py
 .. _argument type conversion: documentation/convert_type.py
+.. _arguments with choices: documentation/choices.py
