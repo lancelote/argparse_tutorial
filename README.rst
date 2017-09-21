@@ -54,6 +54,7 @@ table of content
     - `argument type conversion`_
     - `arguments with choices`_
     - `required arguments`_
+    - `providing a help`_
 
 .. _argparse tutorial: https://docs.python.org/3/howto/argparse.html
 .. _basics: tutorial/basics.py
@@ -90,3 +91,4 @@ table of content
 .. _argument type conversion: documentation/convert_type.py
 .. _arguments with choices: documentation/choices.py
 .. _required arguments: documentation/required.py
+.. _providing a help: documentation/help.py
