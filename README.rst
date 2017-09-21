@@ -46,6 +46,7 @@ table of content
     - `default value for argument`_
     - `argument type conversion`_
     - `arguments with choices`_
+    - `required arguments`_
 
 tests
 -----
@@ -88,3 +89,4 @@ tests
 .. _default value for argument: documentation/default.py
 .. _argument type conversion: documentation/convert_type.py
 .. _arguments with choices: documentation/choices.py
+.. _required arguments: documentation/required.py
