@@ -56,6 +56,7 @@ table of content
     - `required arguments`_
     - `providing a help`_
     - `display example value in help`_
+    - `changing inner option reference name`_
 
 .. _argparse tutorial: https://docs.python.org/3/howto/argparse.html
 .. _basics: tutorial/basics.py
@@ -94,3 +95,4 @@ table of content
 .. _required arguments: documentation/required.py
 .. _providing a help: documentation/help.py
 .. _display example value in help: documentation/metavar.py
+.. _changing inner option reference name: documentation/dest.py
