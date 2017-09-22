@@ -60,6 +60,7 @@ table of content
     - `optional value syntax`_
     - `invalid arguments messages`_
     - `dash in argument name`_
+    - `argument abbreviations`_
 
 .. _argparse tutorial: https://docs.python.org/3/howto/argparse.html
 .. _basics: tutorial/basics.py
@@ -102,3 +103,4 @@ table of content
 .. _optional value syntax: documentation/optional.py
 .. _invalid arguments messages: documentation/invalid.py
 .. _dash in argument name: documentation/dash.py
+.. _argument abbreviations: documentation/abbreviations.py
