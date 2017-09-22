@@ -61,6 +61,7 @@ table of content
     - `invalid arguments messages`_
     - `dash in argument name`_
     - `argument abbreviations`_
+    - `interactive parse_args`_
 
 .. _argparse tutorial: https://docs.python.org/3/howto/argparse.html
 .. _basics: tutorial/basics.py
@@ -104,3 +105,4 @@ table of content
 .. _invalid arguments messages: documentation/invalid.py
 .. _dash in argument name: documentation/dash.py
 .. _argument abbreviations: documentation/abbreviations.py
+.. _interactive parse_args: documentation/parse_args.py
