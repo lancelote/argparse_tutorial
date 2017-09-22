@@ -62,6 +62,7 @@ table of content
     - `dash in argument name`_
     - `argument abbreviations`_
     - `interactive parse_args`_
+    - `Namespace object`_
 
 .. _argparse tutorial: https://docs.python.org/3/howto/argparse.html
 .. _basics: tutorial/basics.py
@@ -106,3 +107,4 @@ table of content
 .. _dash in argument name: documentation/dash.py
 .. _argument abbreviations: documentation/abbreviations.py
 .. _interactive parse_args: documentation/parse_args.py
+.. _Namespace object: documentation/namespace.py
