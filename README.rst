@@ -58,6 +58,7 @@ table of content
     - `display example value in help`_
     - `changing inner option reference name`_
     - `optional value syntax`_
+    - `invalid arguments messages`_
 
 .. _argparse tutorial: https://docs.python.org/3/howto/argparse.html
 .. _basics: tutorial/basics.py
@@ -98,3 +99,4 @@ table of content
 .. _display example value in help: documentation/metavar.py
 .. _changing inner option reference name: documentation/dest.py
 .. _optional value syntax: documentation/optional.py
+.. _invalid arguments messages: documentation/invalid.py
