@@ -12,16 +12,12 @@ code from ``argparse`` tutorial and documentation
 requirements
 ------------
 
-tested on
-
 - macOS
 - Python 3.6
 
 .. code::
 
-    # to install dependencies
-    # activate virtual environment before
-    make deps
+    make deps  # make sure to have venv
 
 tests
 -----
