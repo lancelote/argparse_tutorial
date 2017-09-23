@@ -17,7 +17,7 @@ requirements
 
 .. code::
 
-    make deps  # make sure to have venv
+    make deps
 
 tests
 -----
