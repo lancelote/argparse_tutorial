@@ -65,6 +65,7 @@ table of content
     - `Namespace object`_
     - `subparsers`_
     - `files as arguments`_
+    - `argument groups for help`_
 
 .. _argparse tutorial: https://docs.python.org/3/howto/argparse.html
 .. _basics: tutorial/basics.py
@@ -112,3 +113,4 @@ table of content
 .. _Namespace object: documentation/namespace.py
 .. _subparsers: documentation/subparsers.py
 .. _files as arguments: documentation/files.py
+.. _argument groups for help: documentation/groups.py
