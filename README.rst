@@ -64,6 +64,7 @@ table of content
     - `interactive parse_args`_
     - `Namespace object`_
     - `subparsers`_
+    - `files as arguments`_
 
 .. _argparse tutorial: https://docs.python.org/3/howto/argparse.html
 .. _basics: tutorial/basics.py
@@ -110,3 +111,4 @@ table of content
 .. _interactive parse_args: documentation/parse_args.py
 .. _Namespace object: documentation/namespace.py
 .. _subparsers: documentation/subparsers.py
+.. _files as arguments: documentation/files.py
