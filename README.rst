@@ -63,6 +63,7 @@ table of content
     - `argument abbreviations`_
     - `interactive parse_args`_
     - `Namespace object`_
+    - `subparsers`_
 
 .. _argparse tutorial: https://docs.python.org/3/howto/argparse.html
 .. _basics: tutorial/basics.py
@@ -108,3 +109,4 @@ table of content
 .. _argument abbreviations: documentation/abbreviations.py
 .. _interactive parse_args: documentation/parse_args.py
 .. _Namespace object: documentation/namespace.py
+.. _subparsers: documentation/subparsers.py
