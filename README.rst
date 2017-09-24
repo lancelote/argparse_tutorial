@@ -80,6 +80,7 @@ table of content
     - `predefined arguments`_
     - `parse only known arguments`_
     - `custom file parsing`_
+    - `exiting methods`_
 
 .. _argparse tutorial: https://docs.python.org/3/howto/argparse.html
 .. _basics: tutorial/basics.py
@@ -132,3 +133,4 @@ table of content
 .. _predefined arguments: documentation/predefined.py
 .. _parse only known arguments: documentation/known.py
 .. _custom file parsing: documentation/custom_file_parsing.py
+.. _exiting methods: documentation/exit.py
