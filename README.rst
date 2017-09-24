@@ -76,6 +76,7 @@ table of content
     - `subparsers`_
     - `files as arguments`_
     - `argument groups for help`_
+    - `mutual exclusion of arguments`_
 
 .. _argparse tutorial: https://docs.python.org/3/howto/argparse.html
 .. _basics: tutorial/basics.py
@@ -124,3 +125,4 @@ table of content
 .. _subparsers: documentation/subparsers.py
 .. _files as arguments: documentation/files.py
 .. _argument groups for help: documentation/groups.py
+.. _mutual exclusion of arguments: documentation/mutual_exclusion.py
