@@ -79,6 +79,7 @@ table of content
     - `mutual exclusion of arguments`_
     - `predefined arguments`_
     - `parse only known arguments`_
+    - `custom file parsing`_
 
 .. _argparse tutorial: https://docs.python.org/3/howto/argparse.html
 .. _basics: tutorial/basics.py
@@ -130,3 +131,4 @@ table of content
 .. _mutual exclusion of arguments: documentation/mutual_exclusion.py
 .. _predefined arguments: documentation/predefined.py
 .. _parse only known arguments: documentation/known.py
+.. _custom file parsing: documentation/custom_file_parsing.py
